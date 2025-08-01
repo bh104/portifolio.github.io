@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bh104.github.io/portifolio.github.io/sitemap.xml
+LLMS: https://bh104.github.io/portifolio.github.io/llms.txt
