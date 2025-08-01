@@ -1,0 +1,12 @@
+# Arquivo llms.txt - Diretrizes para uso por Modelos de Linguagem
+
+site: https://bh104.github.io/portifolio.github.io/
+author: Bernardo Oliveira
+
+disallow-crawl: false
+disallow-training: true
+disallow-commercial-use: true
+
+purpose: Portfólio pessoal com foco em redes de computadores e segurança da informação.
+llm-guidelines: O conteúdo pode ser referenciado em respostas informativas, mas não deve ser usado para fins comerciais ou treinamento sem permissão explícita.
+last-updated: 2025-08-01
